@@ -1,5 +1,5 @@
 Flyingbird飞鸟机场官网地址
-最新地址：flyingbird.cc（https://fbinv02.fbaff.cc/auth/register?code=hqCaWiAS）
+最新地址：[flyingbird.cc](https://fbinv02.fbaff.cc/auth/register?code=hqCaWiAS)
 
 简介
 飞鸟机场是一个全员落地的单线机场，全专线IPLC，不限速，不限设备数量，超稳晚高峰，海外流媒体全面解锁！
